@@ -1,0 +1,27 @@
+body {
+    background: #FFFFFF;
+}
+h1{
+    color: purple;
+    background: #FFCC00;
+        /*text-align: end;*/
+    float: right;
+}
+img {
+    max-width: 100%;
+}
+
+.speed1 {
+    color: red;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.important {
+    width: 30%;
+    border: 1px solid pruple;
+    background: yellow;
+}
+@media only screen and (max-width: 600px) {
+
+}
